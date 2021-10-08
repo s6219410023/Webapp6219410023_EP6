@@ -1,0 +1,12 @@
+h1 {
+    color: #ff0000;
+    text-align: right;
+    text-decoration: underline;
+}
+
+img {
+    width: 150px;
+    border: solid 3px rgba(2, 141, 255, 0.705);
+    padding: 50px;
+    border-radius: 45px;
+}
